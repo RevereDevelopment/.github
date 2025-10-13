@@ -24,7 +24,7 @@ Our commercial services sustain our business, but our open-source projects are a
 
 Your sponsorship helps us cover development time, server costs, and ensures our projects remain actively maintained and freely available for everyone.
 
-**[➡️ Sponsor Revere Inc. on GitHub](https://github.com/sponsors/revere-group)**
+**[➡️ Sponsor Revere Group. on GitHub](https://github.com/sponsors/revere-group)**
 
 ---
 
