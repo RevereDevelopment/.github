@@ -44,6 +44,6 @@ Here are some of the key projects we are proud to build and maintain.
 
 Find us across the web. We're always open to new ideas, collaborations, and conversations.
 
-🌐 **Website:** [revere.dev](https://revere.no)  
+🌐 **Website:** [revere.no](https://revere.no)  
 💼 **LinkedIn:** [Revere on LinkedIn](https://www.linkedin.com/company/reveredevelopment)  
 📧 **Email:** `support@revere.dev`
