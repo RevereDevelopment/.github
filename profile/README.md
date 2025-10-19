@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 3em; font-weight: bold;">Revere</h1>
+  <img src=https://cdn.discordapp.com/attachments/1422863040440958976/1429269354289172520/light-transparent-banner.png?ex=68f58650&is=68f434d0&hm=dcc631ee695f1c8dd9b74290b242f6a8fe323b15aed0b8d7babefa892b1bef3a&">
   <p><i>Precision in Code, Excellence in Solutions.</i></p>
   
   <p>
